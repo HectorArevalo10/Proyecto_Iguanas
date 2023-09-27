@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+}
+
+
+.cabecera {
+    background-image: url(../img/koala1.jpg);
+    background-size: cover;
+    height: 750px;
+}
+
+
+h1{
+    text-align: center;
+    margin: 0px;
+    font-family: Verdana;
+    font-size: 120px;
+    color:brown;
+    text-align:center;
+    padding:250px;
+}
+
+
+.descripcion{
+    width: 300%;
+    padding: 50px;
+    color: brown;
+    background-color: burlywood;
+    font : oblique bold 120% cursive;
+}
+
+
+.carac{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: burlywood;
+    padding: 20px;
+    margin: 0px;
+    font-size: 30px;
+    background-color:rgb(42, 16, 16); 
+}
+
+
+.cont1{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+
+.cont2{
+    display: flex;
+
+    justify-content: center;
+    background-color:rgb(42, 16, 16);
+}
+
+
+.icon{
+    font-size: 28px;
+    color: orange; 
+    text-align: center;
+    flex-direction: column;
+    padding: 15px;
+    display: flex;  
+}
+
+
+.album{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+}
+
+
+.img{
+    padding: 30px;
+    width: 25%;
+}
+
+
+.footer{
+    justify-items: center;
+    background-color:rgb(42, 16, 16); 
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    color: white;
+}
+
+
+a{
+    padding: 15px;
+    color:burlywood;
+}
+
